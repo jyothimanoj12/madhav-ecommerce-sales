@@ -12,7 +12,6 @@ It offers key insights into sales trends, customer behavior, and product perform
 | `sales_data.csv` | Dataset of sales transactions |
 | `customers_data.csv` | Dataset of customer details |
 | `madhav_ecommerce_dashboard.pdf` | Exported PDF of the Power BI report |
-| *(optional)* `madhav_ecommerce_dashboard.pbix` | Power BI project file (if available) |
 
 ---
 
